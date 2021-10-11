@@ -1,8 +1,6 @@
 ## 人生就是一个不断学习的过程
 
-You can use the [editor on GitHub](https://github.com/He-Jia-Cheng/He-Jia-Cheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+用无聊的技术做创新的项目，而不是反过来
 
 ### Markdown
 
