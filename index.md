@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 人生就是一个不断学习的过程
 
 You can use the [editor on GitHub](https://github.com/He-Jia-Cheng/He-Jia-Cheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
